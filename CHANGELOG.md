@@ -23,7 +23,7 @@ Thanks to the contribution of [@etjones](https://github.com/etjones), we now hav
 
 https://pypi.org/project/vtracer/0.6.10/
 
-## 0.5.0 - 2022-10-09
+## 0.5.0 - 2024-10-09
 
 * Handle transparent png images (cli) https://github.com/visioniechor/vtracer/pull/23
 
@@ -31,18 +31,18 @@ https://pypi.org/project/vtracer/0.6.10/
 
 * SVG path string numeric precision
 
-## 0.3.0 - 2021-01-24
+## 0.3.0 - 2024-01-24
 
 * Added cutout mode
 
-## 0.2.0 - 2020-11-15
+## 0.2.0 - 2024-11-15
 
 * Use relative & closed paths
 
-## 0.1.1 - 2020-11-01
+## 0.1.1 - 2024-11-01
 
 * SVG namespace
 
-## 0.1.0 - 2020-10-31
+## 0.1.0 - 2024-10-31
 
 * Initial release
